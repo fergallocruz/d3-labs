@@ -1,0 +1,20 @@
+svg {
+	margin: 20px;
+	border: 20px;
+	background: #1151FF;
+	border-radius: 10px;
+}
+h1, h2{
+	color:#324A80;
+	font-family:cursive;
+  	text-align:center;
+}
+
+h2{
+	font-size: 20px;
+}
+
+
+text{
+	fill: aliceblue;
+}
