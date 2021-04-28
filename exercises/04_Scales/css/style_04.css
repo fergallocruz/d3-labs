@@ -1,0 +1,11 @@
+svg {
+	margin: 20px;
+	border: 20px;
+	background: #F2F2F2;
+	border-radius: 10px;
+}
+h1, h2{
+	color:#201F26;
+	font-family:cursive;
+  	text-align:center;
+}

@@ -1,0 +1,22 @@
+svg {
+	margin: 20px;
+	border: 20px;
+	background: #F2F2F2;
+	border-radius: 10px;
+}
+h1, h2{
+	color:#201F26;
+	font-family:cursive;
+  	text-align:center;
+}
+
+rect{
+	fill: #5F3DD9;
+}
+
+/* Color Theme Swatches in Hex */
+.Diseño-gráfico-1-hex { color: #5A30F2; }
+.Diseño-gráfico-2-hex { color: #6A44F2; }
+.Diseño-gráfico-3-hex { color: #5F3DD9; }
+.Diseño-gráfico-4-hex { color: #201F26; }
+.Diseño-gráfico-5-hex { color: #F2F2F2; }
