@@ -17,3 +17,6 @@ Exercises for the Simulation and Visualization D3 module
 
 ## Exercise 5
 ![alt text](https://github.com/fergallocruz/d3-labs/blob/main/Screenshots/exercise_05.PNG)
+
+## Project 1 ~ Star Lion Brewery
+![alt text](https://github.com/fergallocruz/d3-labs/blob/main/Screenshots/brewery.PNG)
